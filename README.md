@@ -1,6 +1,7 @@
 # Triangle Numbers Predict Cube Volume for Integer-Length Cubes
 
 When doing recreational math, I noticed a pattern in the volume of integer-length cubes. The volume difference is equal to 6*T(n) + 1, where T(n) is the triangle number, n = 0,1,2...
+\n
 For example:
 1x1x1 cube has vol = 1 --> 6T(0) + 1  = 6(0) + 1  = 1
 2x2x2 cube has vol  = 8 --> 6T(1) + 1 = 6(1) + 1 = 7  (8-1 = 7)
