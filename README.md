@@ -1,6 +1,6 @@
 # Triangle Numbers Predict Cube Volume for Integer-Length Cubes
 
-When doing recreational math, I noticed a pattern in the volume of integer-length cubes. The volume difference is equal to 6*T(n) + 1, where T(n) is the triangle number, n = 0,1,2...
+When doing math for fun, I noticed a pattern in the volume of integer-length cubes. The volume difference is equal to 6*T(n) + 1, where T(n) is the triangle number, n = 0,1,2...
 <p>
 For example:
 <p>
